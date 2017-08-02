@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 int main(){
 	printf("Converting Decimal to Binary 12 = 1100\n");
 	printf("Converting Decimal to Binary 185 = 10111001\n");
@@ -25,13 +23,4 @@ int main(){
         printf("Converting Hexadecimal to Binary 1A3B = 0001101000111011\n");
         printf("Converting Hexadecimal to Binary ABCD = 1010101111001101\n");
         printf("Converting Hexadecimal to Binary 1111 = 0001000100010001\n");
-
-
-        printf("----------------------------------------------------------\n");
-
-	int num1 = 2;
-	int num2 = 3;
-	int sum = num1+num2;
-
-        printf("%d plus %d equals %d\n", num1,num2,sum);
 }
