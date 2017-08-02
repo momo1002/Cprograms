@@ -19,7 +19,7 @@ int main(){
 	printf("%d\n", 215u);
 	printf("%ld\n", 30l);
 	printf("%lu\n", 201ul);
-	printf("%d\n", 011); // 9 octal ?
+	printf("%d\n", 11); // 9 octal ?
 	
 	printf("%f\n", 3.1415);
 	printf("%Lf\n", 31415E-5L);
