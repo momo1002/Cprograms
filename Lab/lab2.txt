@@ -1,0 +1,61 @@
+Questions:
+1. What extra step do we take when we form the 2's complement of a negative binary number? [Answer]
+
+
+
+
+
+///////////////////////////////////////////
+2. Write the 2's complement for each of the following 5-bit binary numbers. [Answer]
+1. 01001 2
+   10110+1 -> 10111
+
+2. 01011 2
+   10100+1 -> 10101
+
+3. 00111 2
+   11000+1 -> 11001
+
+4. 00001 2
+   11110+1 -> 11111
+
+
+
+///////////////////////////////////////////
+3. In 2's complement, what do all the positive numbers have in common? [Answer]
+they have 1 on the begin of them.
+
+
+
+
+///////////////////////////////////////////
+4. What advantage does 2's complement have over 1's complement? [Answer]
+Being able to avoid having psitive 0 and negative 0.
+
+
+
+
+///////////////////////////////////////////
+5. If you want to write the number 7 10 using 2's complement representation, what do you need to do? [Answer]
+
+
+
+///////////////////////////////////////////
+6. If you want to write the number -7 10 using 2's complement representation, what do you need to do? [Answer]
+-7 : 0111 -> 1000+1 -> 1001
+10 : 1010 -> 0101=1 -> 0111 
+
+
+///////////////////////////////////////////
+7. What is the general technique for converting a decimal number to 2's complement representation? [Answer]
+divide the number with two, then remain the remainder. get the remainder from the end.
+
+///////////////////////////////////////////
+8. Convert the following decimal numbers to binary using 6-bit 2's complement
+representation. [Answer]
+1. -16 10 -> 010000 -> 101111+1 -> 110000
+2. 13 10 ->  001101
+3. -3 10 ->  000011 -> 111100+1 -> 111101
+4. -10 10-> 
+5. 26 10
+6. -31 10
